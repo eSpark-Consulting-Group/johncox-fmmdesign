@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FMM-v1.0.PcbDoc   3/30/2024  1:32:41 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FMM-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : FMM-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             5         PTH        0.15inch (3.79mm)
+T2      12mil (0.3mm)                                             Round             416       PTH        68.10inch (1729.74mm)
+T3      26mil (0.65mm)                                            Slot              4         PTH        1.22inch (30.93mm)
+T4      51mil (1.3mm)                                             Round             6         PTH        0.68inch (17.25mm)
+T5      59mil (1.5mm)                                             Round             8         PTH        0.90inch (22.80mm)
+T6      63mil (1.6mm)                                             Round             28        PTH        8.22inch (208.91mm)
+T7      28mil (0.7mm)                                             Round             2         NPTH       0.31inch (8.00mm)
+T8      93mil (2.36mm)                                            Round             2         NPTH       0.59inch (15.00mm)
+T9      98mil (2.5mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T10     111mil (2.81mm)                                           Round             2         NPTH       0.59inch (15.00mm)
+T11     126mil (3.2mm)                                            Round             8         NPTH       29.48inch (748.82mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              482
+
+Total Processing Time (hh:mm:ss) : 00:00:01
