@@ -1,3 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\XPENDER\Documents\GitHub\johncox-fmmdesign\Design-Files\FMM-v1.0\FMM-v1.0.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=fmm-v1.0-roundholes.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_Slot_Holes|DrillFile=fmm-v1.0-slotholes.txt|DrillLayers=gtl,gbl
+Layer Pairs Export File for PCB: C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\johncox-fmmdesign\Design-Files\FMM-v1.0\FMM-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fmm-v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=fmm-v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
