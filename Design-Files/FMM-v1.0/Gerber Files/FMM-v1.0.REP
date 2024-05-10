@@ -320,7 +320,7 @@ Used DCodes :
     D89
     D90
     D91
-    D159
+    D156
     D162
     D163
     D164
@@ -341,7 +341,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D159
+    D156
     D334
     D335
     D336
@@ -360,7 +360,7 @@ Used DCodes :
     D10
     D15
     D92
-    D159
+    D156
     D334
     D335
     D336
@@ -377,7 +377,7 @@ Generating : Ground Layer
 
 Used DCodes :
     D10
-    D159
+    D156
     D334
     D335
 *************************************************************
@@ -467,7 +467,7 @@ Used DCodes :
     D90
     D91
     D92
-    D159
+    D156
     D161
     D162
     D163
